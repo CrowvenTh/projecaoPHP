@@ -7,9 +7,7 @@ já com desconto ou juros onde:
 
 A) Parcelas até 3, juros de 5%;
 
-
 B) Parcelas acima de 3, juros de 10%.
-
 
 C) Pagamento á vista, desconto de 5%.
 

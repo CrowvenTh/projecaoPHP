@@ -1,2 +1,0 @@
-1. faça um programa que receba como dados de entrada 3 números e mostre como resultado
-qual três números é o maior utilizando função e include.  

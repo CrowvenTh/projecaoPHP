@@ -1,0 +1,16 @@
+Tema 1 - Atividade 1: Sistema de Pedidos de Pizza (Pizzaria)
+
+Você foi contratado para desenvolver um sistema simples de pedidos para uma pizzaria local. 
+O sistema deverá permitir que o cliente escolha o tamanho da pizza, o sabor e a quantidade que deseja incluir no pedido.
+Requisitos:
+
+Crie uma classe chamada Pizzaria que contenha os seguintes atributos:
+tamanho (pequena, média, grande).
+sabor (uma string representando o sabor da pizza).
+A classe deve ter um método calcularPreco(), que retornará o valor total do pedido:
+Pizzas pequenas custam R$ 20,00.
+Pizzas médias custam R$ 25,00.
+Pizzas grandes custam R$ 30,00.
+
+Crie uma página HTML com um formulário que permita ao usuário selecionar o tamanho, informar o sabor e digitar a quantidade.
+Ao enviar o formulário, o sistema deve instanciar a classe Pizzaria, calcular o valor total e exibir o resultado para o usuário.

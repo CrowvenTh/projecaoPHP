@@ -1,0 +1,17 @@
+Tema 2 -Simulação de Aluguel de Imóvel
+Você está desenvolvendo um sistema de aluguel de imóveis. 
+O sistema deverá calcular o custo total do aluguel com base no tipo de imóvel, 
+na quantidade de dias de aluguel e no valor da diária.
+Requisitos:
+
+Crie uma classe chamada Aluguel com os seguintes atributos:
+tipo (uma string que representa o tipo de imóvel, como "apartamento", "casa", "kitnet", etc.).
+duracao (quantidade de dias que o imóvel será alugado).
+valorDiaria (o valor cobrado por cada dia de aluguel).
+
+A classe deve ter um método calcularCustoTotal(), que multiplica a duração do aluguel pelo valor da diária.
+Crie uma página HTML com um formulário que permita ao usuário informar:
+O tipo de imóvel.
+A quantidade de dias que deseja alugar o imóvel.
+O valor da diária.
+Ao enviar o formulário, o sistema deve instanciar a classe Aluguel, calcular o custo total e exibir o valor final ao usuário.

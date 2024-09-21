@@ -1,0 +1,21 @@
+Tema 3 - Sistema de Manutenção de Carros
+Você está criando um sistema para uma oficina mecânica que realiza a manutenção de veículos. 
+O sistema deverá calcular o custo total da manutenção de acordo com o serviço realizado, 
+a quantidade de peças necessárias e o valor de cada peça.
+
+Requisitos:
+Crie uma classe chamada ManutencaoCarro com os seguintes atributos:
+servico (uma string representando o tipo de serviço, como "troca de óleo", "balanceamento", etc.).
+valorServico (valor cobrado pelo serviço).
+quantidadePecas (quantidade de peças que serão trocadas ou reparadas).
+valorPeca (valor unitário de cada peça).
+
+A classe deve ter um método calcularCustoManutencao(), que retorna o custo total somando o valor do serviço 
+com o custo das peças (quantidade de peças multiplicada pelo valor unitário).
+Crie uma página HTML com um formulário que permita ao usuário informar:
+
+O serviço realizado.
+O valor do serviço.
+A quantidade de peças utilizadas.
+O valor por peça.
+Ao enviar o formulário, o sistema deve instanciar a classe ManutencaoCarro, calcular o custo total da manutenção e exibir o resultado para o usuário.

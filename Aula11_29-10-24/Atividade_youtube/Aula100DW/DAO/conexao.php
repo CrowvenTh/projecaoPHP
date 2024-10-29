@@ -1,10 +1,9 @@
 <?php
-
 abstract class Conexao
 {
     public static function getInstance()
     {
-        $dsn = 'mysql:host=localhost;dbname=video_php_pdo';
+        $dsn = 'mysql:host=localhost;dbname=crud_php_pdo';
         $user = 'root';
         $pass = '';
         try {

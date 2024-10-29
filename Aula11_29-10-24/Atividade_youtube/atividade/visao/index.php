@@ -14,6 +14,8 @@
         <input type="url" name="linkVideo"placeholder="Insira o link do video">
 
         <input type="submit"> Cadastrar
+
+        <iframe src="https://www.youtube.com/embed/Rl-s6NRfTDM?si=A-DZd16JbNg_fprh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </form>
 </body>
 </html>

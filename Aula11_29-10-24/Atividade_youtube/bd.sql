@@ -1,14 +1,13 @@
-create database crud_php_pdo;
+create database video_php_pdo;
 
-use crud_php_pdo;
+use video_php_pdo;
 
-create table usuario(
-	idUsuario int primary key auto_increment, 
-    nome varchar(45), 
-    email varchar(60)
+create table video(
+    id_video int primary key auto_increment, 
+    nome varchar(100), 
+    link varchar(500)
 );
 
-desc usuario;
+show tables;
 
-
-
+desc video;

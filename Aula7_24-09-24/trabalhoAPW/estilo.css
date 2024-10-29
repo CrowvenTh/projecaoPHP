@@ -1,0 +1,75 @@
+
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff7e6; /* Amarelo muito claro */
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            color: #000000; /* Preto */
+            margin-top: 20px;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 10px;
+            vertical-align: top;
+        }
+
+        select, input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #000000; /*  preto */
+            border-radius: 4px;
+            box-sizing: border-box; /* Para incluir padding e border na largura total */
+        }
+
+        input[type="submit"] {
+            background-color: #000000; /*  preto */
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #c62828; /* Vermelho mais escuro para o efeito de hover */
+        }
+
+        .output {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            color: #d32f2f; /* Vermelho escuro para o texto de saída */
+            font-size: 18px;
+        }
+
+        .output p {
+            margin: 0;
+        }
+    
+   

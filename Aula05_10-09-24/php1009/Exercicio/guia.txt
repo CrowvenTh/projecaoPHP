@@ -1,0 +1,4 @@
+Faça um programa que receba o número de uma mesa, a quantidade de 
+clientes da mesa e o valor total da conta da mesa. Sabendo que a 
+conta será dividida por um número x de clientes, mostre como resultado 
+o valor pago por cada cliente
